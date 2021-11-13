@@ -17,6 +17,10 @@ Below are few topics, which need proper improvement.
 - 5 Questions on every Topics✨
 
 : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+# Week 1
+a. Python 
+b. Arrays and Strings
+: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
 
 ## Reinforcement Learning : [ "Date : 09/15/2021 - 01/08/2022 : "]
 #### : Synopsis :
@@ -27,6 +31,13 @@ Below are few topics, which need proper improvement.
 | ------ | ------ |
 | RL | [plugins/dropbox/README.md][PlDb] |
 
+: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+# Week 1
+a. Markov Decision Process 
+b. Monte Carlo Methods
+
+: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+
 ## Self Driving Cars : [ "Date : 01/09/2022 - 03/09/2022 : "]
 #### : Synopsis :
 - One Concepts  Everyday✨
@@ -35,6 +46,15 @@ Below are few topics, which need proper improvement.
 | Topics | URLs |
 | ------ | ------ |
 | Self Driving | [plugins/dropbox/README.md][PlDb] |
+
+: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+# Week 1
+a. Computer Vision Fundamental 
+b. Camera Calibration
+c. Gradients Color Spaces
+d. Advanced Computer Vision
+
+: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
 
 ## Computer Vision : [ "Date : 03/10/2022 - 05/10/2022 : "]
 #### : Synopsis :
