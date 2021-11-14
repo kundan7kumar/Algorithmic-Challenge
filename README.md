@@ -12,7 +12,7 @@ This Coding Challenges is to improve skill sets in artifical Intelligence fields
 Below are few topics, which need proper improvement.  
 # : : : : : : : : : : : : : : Topics : : : : : : : : : : : : : 
 ## Algorithm
-#### : Synopsis : [ "Date : 09/15/2021 - 12/31/2022 : "]
+#### : Synopsis : [ "Date : 11/16/2021 - 12/31/2022 : "]
 - Two Code  Everyday✨
 - 5 Questions on every Topics✨
 
@@ -22,7 +22,7 @@ a. Python
 b. Arrays and Strings
 : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
 
-## Reinforcement Learning : [ "Date : 09/15/2021 - 01/08/2022 : "]
+## Reinforcement Learning : [ "Date : 11/16/2021 - 01/08/2022 : "]
 #### : Synopsis :
 - One Concepts  Everyday✨
 - One Project Every-Week✨
