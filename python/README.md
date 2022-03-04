@@ -1,6 +1,6 @@
-# HCI574 - lecture 2 - 2016
+# 
 
-print 1 + 4 # print outputs the result of the code after the word print
+print 1 + 4 # print o~~utputs the result of the code after the word print
 print 3 / 1.8 # / means divide (dividing by a whole number is strange - more about that later ...)
 print 2 ** 8 # ** is the "power of" operation
 print 3 * "spam" # do you think this should work?
