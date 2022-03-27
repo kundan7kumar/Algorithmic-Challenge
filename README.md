@@ -1,5 +1,5 @@
-# Coding Challenge         {25th Nov 2021 - 31st Dec 2022}
-#### "#400 Days Coding Challenge" 
+# Coding Challenge         [27th Mar 2022 - 30th Sept 2022]
+#### "#6 Months Coding Challenge" 
 
 This Coding Challenges is to improve skill sets in artifical Intelligence fields.
 
