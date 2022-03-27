@@ -1,113 +1,92 @@
-# Coding Challenge         [27th Mar 2022 - 30th Sept 2022]
-#### "#6 Months Coding Challenge" 
-
-This Coding Challenges is to improve skill sets in artifical Intelligence fields.
+### Algorithmic Challenge         [28th Mar 2022 - 30th Sept 2022]
+##### "#6 Months Coding Challenge" [Goal : 600 Questions from Leetcode]
+&nbsp;
+This Coding Challenges is to hone my algorithmic coding skill sets .
 
 ## Few Important points
-- Update Code Daily to Github  
-- Make Weekly Progress Report
-- Write One Weekly Medium Blog Post
-- Minimum One Project Per week
+- Update GitHub daily to keep track of Progress.  
+- Make/Commits 3-4 Questions per day
+- Write Medium Post Weekly
 
-Below are few topics, which need proper improvement.  
-# : : : : : : : : : : : : : : Topics : : : : : : : : : : : : : 
-## Algorithm
-#### : Synopsis : [ "Date : 11/24/2021 - 12/31/2022 : "]
-- Two Code  Everyday✨
-- 5 Questions on every Topics✨
+Topics need to be honed!!
 
-: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
-# Week 1
-a. Python 
-b. Arrays and Strings
-: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+##### : : : : : : : : : : : : : : Topics : : : : : : : : : : : : : : : : : : : : : : : : : : 
+#### Python
+###### : Synopsis : [ "Date : 28th Mar 2022 - 3rd Apr 2022"]
+- 3-4 Questions Everyday✨
+- 5 Questions on Every Topics✨
 
-## Reinforcement Learning : [ "Date : 11/24/2021 - 01/14/2022 : "]
-#### : Synopsis :
-- One Concepts  Everyday✨
-- One Project Every-Week✨
+#### Data Structure 
+###### : Synopsis : [ "Date : 4th Apr 2022 - 1st May 2022"]
+- 3-4 Questions Everyday✨
+- 5 Questions on Every Topics✨
 
-| Topics | URLs |
-| ------ | ------ |
-| RL | [plugins/dropbox/README.md][PlDb] |
-
-: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
-# Week 1
-a. Markov Decision Process 
-b. Monte Carlo Methods
+#### Algorithm
+##### : Synopsis : [ "Date : 2nd May 2022 - 30th Sep 2022 "]
+- 3-4 Questions Everyday✨
+- 5 Questions on Every Topics✨
 
 : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
 
-## Self Driving Cars : [ "Date : 01/09/2022 - 03/09/2022 : "]
-#### : Synopsis :
-- One Concepts  Everyday✨
-- One Project Every-Week✨
+#### Week 1 : Python [ "Date : 28th Mar 2022 - 3rd Apr 2022"]
+- Loops
+- Functions
+- Object oriented Design
+- Questions:
+    
+: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+### Data Structure 
+&nbsp;
+#### Week 2 : [ "Date : 4th Apr 2022 - 10th Apr 2022"]
+- Array & Maths
+- Bit Manipulation
+- Two Pointer 
 
-| Topics | URLs |
-| ------ | ------ |
-| Self Driving | [plugins/dropbox/README.md][PlDb] |
+&nbsp;
+#### Week 3 : [ "Date : 11th Apr 2022 - 17th Apr 2022"]
+- Hashing 
+- Searching [ Linear and Binary ]
+
+&nbsp;
+#### Week 4 : [ "Date : 18th Apr 2022 - 24th Apr 2022"]
+- Linked Lists 
+- Stacks
+- Queue
+
+&nbsp;
+#### Week 5 : [ "Date : 25th Apr 2022 - 1st May 2022"]
+- Trees
+- Heap
 
 : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
-# Week 1
-a. Computer Vision Fundamental 
-b. Camera Calibration
-c. Gradients Color Spaces
-d. Advanced Computer Vision
+### Algorithm Design and Analysis
+&nbsp;
+#### Week 6 : [ "Date : 2nd May 2022 - 8th May 2022"]
+- Graph Algorithm
+- String Algorithms
 
+&nbsp;
+#### Week 7 : [ "Date : 9th May 2022 - 15th May 2022"]
+- Recursion 
+
+&nbsp;
+#### Week 8 : [ "Date : 16th May 2022 - 22nd May 2022"]
+- Graph Algorithms
+
+&nbsp;
+#### Week 9 : [ "Date : 23rd May 2022 - 29th May 2022"]
+- Greedy Algorithms
+
+&nbsp;
+#### Week 10 : [ "Date : 30th May 2022 - 4th Jun 2022"]
+- Dynamic Programming
+- 
 : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
 
-## Computer Vision : [ "Date : 03/10/2022 - 05/10/2022 : "]
-#### : Synopsis :
-- One Concepts  Everyday✨
-- One Project Every-Week✨
+## Notes
 
 | Topics | URLs |
 | ------ | ------ |
-| Computer Vision | [plugins/dropbox/README.md][PlDb] |
+| Algorithm | []
 
-## Machine Learning : [ "Date : 05/11/2022 - 07/11/2022 : "]
-#### : Synopsis :
-- One Concepts  Everyday✨
-- One Project Every-Week✨
-
-| Topics | URLs |
-| ------ | ------ |
-| Machine Learning | [plugins/github/README.md][PlGh] |
-
-## Deep Learning : [ "Date : 07/12/2022 - 09/12/2022 : "]
-#### : Synopsis :
-- One Concepts  Everyday✨
-- One Project Every-Week✨
-
-| Topics | URLs |
-| ------ | ------ |
-| Deep Learning | [plugins/dropbox/README.md][PlDb] |
-
-## Natural Language Processing : [ "Date : 09/13/2022 - 11/13/2022 : "]
-#### : Synopsis :
-- One Concepts  Everyday✨
-- One Project Every-Week✨
-
-| Topics | URLs |
-| ------ | ------ |
-| Natural Language Learning | [plugins/dropbox/README.md][PlDb] |
-
-## Robotics : [ "Date : 11/14/2022 - 12/31/2022 : "]
-#### : Synopsis :
-- One Concepts  Everyday✨
-- One Project Every-Week✨
-
-| Topics | URLs |
-| ------ | ------ |
-| Robotics | [plugins/dropbox/README.md][PlDb] |
-
-## Statistics : [ "Date : 01/31/2022 - 12/31/2022 : "]
-#### : Synopsis :
-- One Concepts  Everyday✨
-- One Project Every-Week✨
-
-| Topics | URLs |
-| ------ | ------ |
-| Statistics | [plugins/dropbox/README.md][PlDb] |
-
-
+: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
