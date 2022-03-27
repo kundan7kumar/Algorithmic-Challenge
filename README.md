@@ -36,24 +36,21 @@ Topics need to be honed!!
     
 : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
 ### Data Structure 
-&nbsp;
+
 #### Week 2 : [ "Date : 4th Apr 2022 - 10th Apr 2022"]
 - Array & Maths
 - Bit Manipulation
 - Two Pointer 
 
-&nbsp;
 #### Week 3 : [ "Date : 11th Apr 2022 - 17th Apr 2022"]
 - Hashing 
 - Searching [ Linear and Binary ]
 
-&nbsp;
 #### Week 4 : [ "Date : 18th Apr 2022 - 24th Apr 2022"]
 - Linked Lists 
 - Stacks
 - Queue
 
-&nbsp;
 #### Week 5 : [ "Date : 25th Apr 2022 - 1st May 2022"]
 - Trees
 - Heap
@@ -65,19 +62,15 @@ Topics need to be honed!!
 - Graph Algorithm
 - String Algorithms
 
-&nbsp;
 #### Week 7 : [ "Date : 9th May 2022 - 15th May 2022"]
 - Recursion 
 
-&nbsp;
 #### Week 8 : [ "Date : 16th May 2022 - 22nd May 2022"]
 - Graph Algorithms
 
-&nbsp;
 #### Week 9 : [ "Date : 23rd May 2022 - 29th May 2022"]
 - Greedy Algorithms
 
-&nbsp;
 #### Week 10 : [ "Date : 30th May 2022 - 4th Jun 2022"]
 - Dynamic Programming
 - 
