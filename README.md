@@ -1,4 +1,4 @@
-### Algorithmic Challenge         [28th Mar 2022 - 30th Sept 2022]
+### Algorithmic Challenge         [1st Apr 2022 - 30th Sept 2022]
 ##### "#6 Months Coding Challenge" [Goal : 600 Questions from Leetcode]
 &nbsp;
 This Coding Challenges is to hone my algorithmic coding skill sets .
@@ -12,7 +12,7 @@ Topics need to be honed!!
 
 ##### : : : : : : : : : : : : : : Topics : : : : : : : : : : : : : : : : : : : : : : : : : : 
 #### Python
-###### : Synopsis : [ "Date : 28th Mar 2022 - 3rd Apr 2022"]
+###### : Synopsis : [ "Date : 1st Apr 2022 - 3rd Apr 2022"]
 - 3-4 Questions Everyday✨
 - 5 Questions on Every Topics✨
 
@@ -28,7 +28,7 @@ Topics need to be honed!!
 
 : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
 
-#### Week 1 : Python [ "Date : 28th Mar 2022 - 3rd Apr 2022"]
+#### Week 1 : Python [ "Date : 1st Apr 2022 - 3rd Apr 2022"]
 - Loops
 - Functions
 - Object oriented Design
