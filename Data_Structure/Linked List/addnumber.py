@@ -7,6 +7,7 @@ class ListNode(object):
 
 class Solution:
     def addTwonumbers(self,l1,l2,c=0):
+        return 0
 
 
 
@@ -23,7 +24,6 @@ l2.next.next=ListNode(4)
 
 result= Solution.addTwonumbers(l1,l2)
 while result:
-    print result.val,
-    result.next
+    print(result.val,result.next)
 
 
